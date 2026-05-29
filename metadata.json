@@ -1,0 +1,6 @@
+{
+  "name": "SkillBridge AI",
+  "description": "An AI-powered EdTech and Career platform combining learning, practice, projects, certifications, and career opportunities.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
